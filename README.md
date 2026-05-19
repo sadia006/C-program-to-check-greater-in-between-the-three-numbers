@@ -1,1 +1,1 @@
-# C-program-to-check-greater-in-between-the-three-numbers.
+# C-program-to-check-greater-among-the-three-numbers.
